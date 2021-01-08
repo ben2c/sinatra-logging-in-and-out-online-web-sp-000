@@ -7,3 +7,5 @@ class CreateUserTable < ActiveRecord::Migration[5.1]
     end
   end
 end
+
+#'rake console' to insert new users into table temporarily
